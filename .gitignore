@@ -32,3 +32,5 @@ yarn-error.log*
 
 # vercel
 .vercel
+# Vigil
+env.js
